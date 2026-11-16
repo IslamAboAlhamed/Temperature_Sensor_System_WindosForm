@@ -1,0 +1,14 @@
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\bin\Debug\DelegateAndEventForm.exe.config
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\bin\Debug\DelegateAndEventForm.exe
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\bin\Debug\DelegateAndEventForm.pdb
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.csproj.AssemblyReference.cache
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.Form1.resources
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.Properties.Resources.resources
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.csproj.GenerateResource.cache
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.csproj.CoreCompileInputs.cache
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.exe
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.pdb
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\DelegateAndEventForm.exe.config
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\bin\Debug\Guna.UI2.dll
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\bin\Debug\Guna.UI2.xml
+C:\Users\Hp Zbook G3\source\repos\DelegateAndEventForm\obj\Debug\Delegate.0939ECEF.Up2Date
